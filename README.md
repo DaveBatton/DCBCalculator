@@ -3,4 +3,4 @@ DCBCalculator
 
 Calculator popover view for iPad.
 
-![screenshot](https://github.com/DaveBatton/DCBCalculator/blob/master/Screenshot.png)
+![](https://github.com/DaveBatton/DCBCalculator/blob/master/Screenshot.png?raw=true)
